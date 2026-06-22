@@ -40,6 +40,8 @@ Alpha chess master pro
 [Game Screenshot]
 #chess board
 ![Final Board](https://github.com/user-attachments/assets/531f8f96-a6fd-4df8-b55f-769347af0612)
+
+
 # AI wins 
 ![Final Board](https://github.com/user-attachments/assets/e8e560c4-380e-4278-8cf2-09037bf6de06)
 
